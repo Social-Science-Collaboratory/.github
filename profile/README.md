@@ -1,4 +1,6 @@
-## Hi there 👋
+## The Social Science Collaboratory (University of Florida)
+
+Many of the most exciting scientific accomplishments of the past few decades – such as mapping the human genome or developing transformative AI technologies – have required researchers to do something unusual: collaborate on a massive scale. Our group specializes in developing, supporting, and studying such initiatives.
 
 <!--
 
